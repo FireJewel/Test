@@ -3,6 +3,9 @@
     <next>
       <block type="comment_comment" id="113">
         <field name="TEXT">1500</field>
+        <next>
+          <block type="movement_stop" id="133"></block>
+        </next>
       </block>
     </next>
   </block>
